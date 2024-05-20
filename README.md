@@ -22,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
+Take a look at live version: https://664afab27f95c93fccdc0827--quiet-rolypoly-f81557.netlify.app/
